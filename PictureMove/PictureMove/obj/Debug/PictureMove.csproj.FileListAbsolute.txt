@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\PictureMove\PictureMove\bin\Debug\PictureMove.dll
+C:\Users\user\source\repos\PictureMove\PictureMove\bin\Debug\PictureMove.pdb
+C:\Users\user\source\repos\PictureMove\PictureMove\obj\Debug\PictureMove.csprojAssemblyReference.cache
+C:\Users\user\source\repos\PictureMove\PictureMove\obj\Debug\PictureMove.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PictureMove\PictureMove\obj\Debug\PictureMove.dll
+C:\Users\user\source\repos\PictureMove\PictureMove\obj\Debug\PictureMove.pdb
+F:\資料\C語言編輯器\新文件\PictureMove\PictureMove\bin\Debug\PictureMove.dll
+F:\資料\C語言編輯器\新文件\PictureMove\PictureMove\bin\Debug\PictureMove.pdb
+F:\資料\C語言編輯器\新文件\PictureMove\PictureMove\obj\Debug\PictureMove.dll
+F:\資料\C語言編輯器\新文件\PictureMove\PictureMove\obj\Debug\PictureMove.pdb

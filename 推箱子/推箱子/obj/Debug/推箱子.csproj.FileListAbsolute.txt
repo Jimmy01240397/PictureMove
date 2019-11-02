@@ -1,0 +1,12 @@
+F:\資料\C語言編輯器\新文件\推箱子\推箱子\bin\Debug\推箱子.exe
+F:\資料\C語言編輯器\新文件\推箱子\推箱子\bin\Debug\推箱子.pdb
+F:\資料\C語言編輯器\新文件\推箱子\推箱子\bin\Debug\PictureMove.dll
+F:\資料\C語言編輯器\新文件\推箱子\推箱子\bin\Debug\PictureMove.pdb
+F:\資料\C語言編輯器\新文件\推箱子\推箱子\obj\Debug\推箱子.Form1.resources
+F:\資料\C語言編輯器\新文件\推箱子\推箱子\obj\Debug\推箱子.Properties.Resources.resources
+F:\資料\C語言編輯器\新文件\推箱子\推箱子\obj\Debug\推箱子.csproj.GenerateResource.cache
+F:\資料\C語言編輯器\新文件\推箱子\推箱子\obj\Debug\推箱子.exe
+F:\資料\C語言編輯器\新文件\推箱子\推箱子\obj\Debug\推箱子.pdb
+F:\資料\C語言編輯器\新文件\推箱子\推箱子\obj\Debug\推箱子.csprojAssemblyReference.cache
+F:\資料\C語言編輯器\新文件\推箱子\推箱子\obj\Debug\推箱子.csproj.CoreCompileInputs.cache
+F:\資料\C語言編輯器\新文件\推箱子\推箱子\obj\Debug\推箱子.csproj.CopyComplete

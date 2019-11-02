@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "走迷宮", "走迷宮\走迷宮.csproj", "{0618485C-2753-4C6E-8D94-44C0318AA498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0618485C-2753-4C6E-8D94-44C0318AA498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0618485C-2753-4C6E-8D94-44C0318AA498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0618485C-2753-4C6E-8D94-44C0318AA498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0618485C-2753-4C6E-8D94-44C0318AA498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBA05D03-E10B-481B-B152-01E23C3F51F2}
+	EndGlobalSection
+EndGlobal

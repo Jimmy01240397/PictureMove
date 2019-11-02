@@ -1,0 +1,39 @@
+F:\資料\C語言編輯器\新文件\走迷宮\WindowsFormsApplication2\bin\Debug\PictureMove.dll
+F:\資料\C語言編輯器\新文件\走迷宮\WindowsFormsApplication2\bin\Debug\PictureMove.pdb
+F:\資料\C語言編輯器\新文件\走迷宮\WindowsFormsApplication2\obj\Debug\走迷宮.csprojAssemblyReference.cache
+F:\資料\C語言編輯器\新文件\走迷宮\WindowsFormsApplication2\obj\Debug\走迷宮.Form1.resources
+F:\資料\C語言編輯器\新文件\走迷宮\WindowsFormsApplication2\obj\Debug\走迷宮.csproj.GenerateResource.cache
+F:\資料\C語言編輯器\新文件\走迷宮\WindowsFormsApplication2\obj\Debug\走迷宮.csproj.CoreCompileInputs.cache
+F:\資料\C語言編輯器\新文件\走迷宮\WindowsFormsApplication2\obj\Debug\走迷宮.csproj.CopyComplete
+F:\資料\C語言編輯器\新文件\走迷宮\WindowsFormsApplication2\bin\Debug\走迷宮.exe.config
+F:\資料\C語言編輯器\新文件\走迷宮\WindowsFormsApplication2\bin\Debug\走迷宮.exe
+F:\資料\C語言編輯器\新文件\走迷宮\WindowsFormsApplication2\bin\Debug\走迷宮.pdb
+F:\資料\C語言編輯器\新文件\走迷宮\WindowsFormsApplication2\obj\Debug\走迷宮.Properties.Resources.resources
+F:\資料\C語言編輯器\新文件\走迷宮\WindowsFormsApplication2\obj\Debug\走迷宮.exe
+F:\資料\C語言編輯器\新文件\走迷宮\WindowsFormsApplication2\obj\Debug\走迷宮.pdb
+F:\資料\C語言編輯器\新文件\走迷宮\走迷宮\bin\Debug\走迷宮.exe.config
+F:\資料\C語言編輯器\新文件\走迷宮\走迷宮\bin\Debug\走迷宮.exe
+F:\資料\C語言編輯器\新文件\走迷宮\走迷宮\bin\Debug\走迷宮.pdb
+F:\資料\C語言編輯器\新文件\走迷宮\走迷宮\bin\Debug\PictureMove.dll
+F:\資料\C語言編輯器\新文件\走迷宮\走迷宮\bin\Debug\PictureMove.pdb
+F:\資料\C語言編輯器\新文件\走迷宮\走迷宮\obj\Debug\走迷宮.csprojAssemblyReference.cache
+F:\資料\C語言編輯器\新文件\走迷宮\走迷宮\obj\Debug\走迷宮.Form1.resources
+F:\資料\C語言編輯器\新文件\走迷宮\走迷宮\obj\Debug\走迷宮.Properties.Resources.resources
+F:\資料\C語言編輯器\新文件\走迷宮\走迷宮\obj\Debug\走迷宮.csproj.GenerateResource.cache
+F:\資料\C語言編輯器\新文件\走迷宮\走迷宮\obj\Debug\走迷宮.csproj.CoreCompileInputs.cache
+F:\資料\C語言編輯器\新文件\走迷宮\走迷宮\obj\Debug\走迷宮.csproj.CopyComplete
+F:\資料\C語言編輯器\新文件\走迷宮\走迷宮\obj\Debug\走迷宮.exe
+F:\資料\C語言編輯器\新文件\走迷宮\走迷宮\obj\Debug\走迷宮.pdb
+L:\Data\C Studio\My Project\走迷宮\走迷宮\bin\Debug\走迷宮.exe.config
+L:\Data\C Studio\My Project\走迷宮\走迷宮\bin\Debug\走迷宮.exe
+L:\Data\C Studio\My Project\走迷宮\走迷宮\bin\Debug\走迷宮.pdb
+L:\Data\C Studio\My Project\走迷宮\走迷宮\bin\Debug\PictureMove.dll
+L:\Data\C Studio\My Project\走迷宮\走迷宮\bin\Debug\PictureMove.pdb
+L:\Data\C Studio\My Project\走迷宮\走迷宮\obj\Debug\走迷宮.csprojAssemblyReference.cache
+L:\Data\C Studio\My Project\走迷宮\走迷宮\obj\Debug\走迷宮.Form1.resources
+L:\Data\C Studio\My Project\走迷宮\走迷宮\obj\Debug\走迷宮.Properties.Resources.resources
+L:\Data\C Studio\My Project\走迷宮\走迷宮\obj\Debug\走迷宮.csproj.GenerateResource.cache
+L:\Data\C Studio\My Project\走迷宮\走迷宮\obj\Debug\走迷宮.csproj.CoreCompileInputs.cache
+L:\Data\C Studio\My Project\走迷宮\走迷宮\obj\Debug\走迷宮.csproj.CopyComplete
+L:\Data\C Studio\My Project\走迷宮\走迷宮\obj\Debug\走迷宮.exe
+L:\Data\C Studio\My Project\走迷宮\走迷宮\obj\Debug\走迷宮.pdb
