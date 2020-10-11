@@ -186,6 +186,11 @@ namespace PictureMove
             Location = new System.Drawing.Point(Location.X + (int)x, Location.Y + (int)y);
         }
 
+        public void Moving(int X, int Y)
+        {
+            Location = new System.Drawing.Point(Location.X + (int)X, Location.Y + (int)Y);
+        }
+
         public bool OutSide(ScrollableControl scrollable)
         {
             return Location.X <= 0 || Location.Y <= 0 || Location.X + Size.Width >= scrollable.Width || Location.Y + Size.Height >= scrollable.Height;

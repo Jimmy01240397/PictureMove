@@ -8,3 +8,9 @@ F:\資料\C語言編輯器\新文件\PictureMove\PictureMove\bin\Debug\PictureMo
 F:\資料\C語言編輯器\新文件\PictureMove\PictureMove\bin\Debug\PictureMove.pdb
 F:\資料\C語言編輯器\新文件\PictureMove\PictureMove\obj\Debug\PictureMove.dll
 F:\資料\C語言編輯器\新文件\PictureMove\PictureMove\obj\Debug\PictureMove.pdb
+L:\Data\C Studio\My Project\PictureMove\PictureMove\bin\Debug\PictureMove.dll
+L:\Data\C Studio\My Project\PictureMove\PictureMove\bin\Debug\PictureMove.pdb
+L:\Data\C Studio\My Project\PictureMove\PictureMove\obj\Debug\PictureMove.csprojAssemblyReference.cache
+L:\Data\C Studio\My Project\PictureMove\PictureMove\obj\Debug\PictureMove.csproj.CoreCompileInputs.cache
+L:\Data\C Studio\My Project\PictureMove\PictureMove\obj\Debug\PictureMove.dll
+L:\Data\C Studio\My Project\PictureMove\PictureMove\obj\Debug\PictureMove.pdb
